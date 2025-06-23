@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(255, 240, 218);
+}
+
+h1{
+    font-size: 24px;
+    padding: 8px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 8px;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+a{
+    color: black;
+}
+
+div{
+    margin: 10px 0px;
+}
+
+img{
+    width: 80px;
+    border: solid black 1px;
+}
